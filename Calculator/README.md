@@ -1,7 +1,7 @@
 Calculator Application
 
 
-This is a simple GUI-based calculator built with Python's Tkinter library.
+This is a simple  calculator built with Python's Tkinter library.
 It performs basic arithmetic operations like addition, subtraction, multiplication, and division. 
 The application includes:
 Two input fields for numbers with clear labels.
